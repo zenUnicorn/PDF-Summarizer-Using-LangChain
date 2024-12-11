@@ -6,4 +6,4 @@ Building an LLM-Powered application to summarize PDF using LangChain, the PyPDFL
 
 Medium Blog [post](https://iamholumeedey007.medium.com/building-a-pdf-summarizer-with-langchain-a1dea8d2cd3a).
 
-LangChain ❤️ Gradio
+LangChain ❤️ Gradio.
